@@ -1,0 +1,15 @@
+# 系统 / 编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 本地调试产物（截图、语法检查、注入探针）
+_cprof/
+_*.png
+_check.js
+_dbg*.html
+_debug*.html
+
+# WorkBuddy 本地配置与应用发布标记
+.workbuddy/
+.wbapp_*.genie
