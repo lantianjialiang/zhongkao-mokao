@@ -3,6 +3,7 @@
 一个记录中考（初中升学考试）各次模拟考成绩的**纯静态单页网站**。双击一个 HTML 文件就能用，不需要服务器、不需要安装、不依赖任何第三方库。
 
 **在线使用：<https://zhongkao-mokao.app.workbuddy.host/>**
+
 **在线使用：<https://lantianjialiang.github.io/zhongkao-mokao/>**
 
 
